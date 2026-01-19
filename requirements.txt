@@ -1,0 +1,14 @@
+# Interface gráfica moderna e profissional
+ttkbootstrap>=1.10.1
+Pillow>=10.0.0
+
+# Geração de PDFs
+fpdf>=1.7.2
+
+# Gráficos e visualização
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Empacotamento (opcional)
+pyinstaller>=5.13.0
+
